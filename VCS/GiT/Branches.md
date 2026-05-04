@@ -1,11 +1,14 @@
-## Branches
-A branch is like a separate workspace where you can make changes without affecting the main project.
+# Branches
 
-## Branches
+A branch is like a separate workspace where you can make changes and experiment without affecting the main project.
 
-Creating a new Branches works like this:
-git branch name
-Seeing all Branches works like this:
-git branch
-Switching branch works like this:
-git checkout name
+### How to use Branches
+
+*   **Create a new branch:**
+    `git branch <name>`
+*   **List all branches:**
+    `git branch`
+*   **Switch to a branch:**
+    `git checkout <name>`
+
+---
